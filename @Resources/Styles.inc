@@ -49,7 +49,7 @@ AntiAlias=1
 [StyleProcessItem]
 X=0
 Y=0R
-W=(#SidebarUsableWidth#*0.45)
+W=(#SidebarUsableWidth#*0.43)
 FontFace=#Font#
 FontSize=#FontSize1#
 FontColor=#FontColor1#
