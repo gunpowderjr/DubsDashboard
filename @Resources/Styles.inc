@@ -80,6 +80,16 @@ SolidColor=0,0,0,1
 DynamicVariables=1
 AntiAlias=1
 
+[GameBox]
+X=0
+Y=0R
+W=(#SidebarWidth#-100)
+H=60
+SolidColor=0,0,0,1
+DynamicVariables=1
+AntiAlias=1
+ToolTipText=%2#CRLF#Total Hours played: %3
+ToolTipType=1
 
 
 
