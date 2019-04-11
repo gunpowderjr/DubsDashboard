@@ -49,7 +49,7 @@ AntiAlias=1
 [StyleProcessItem]
 X=0
 Y=0R
-W=(#SidebarUsableWidth#*0.43)
+W=(#SidebarUsableWidth#*0.40)
 FontFace=#Font#
 FontSize=#FontSize1#
 FontColor=#FontColor1#
@@ -59,9 +59,9 @@ DynamicVariables=1
 AntiAlias=1
 
 [StyleProcessBar]
-X=(#SidebarUsableWidth#*0.45)
+X=(#SidebarUsableWidth#*0.40)
 Y=7r
-W=(#SidebarUsableWidth#*0.5)
+W=(#SidebarUsableWidth#*0.50)
 H=5
 BarColor=#FontColor1#
 BarOrientation=Horizontal
