@@ -83,8 +83,8 @@ AntiAlias=1
 [GameBox]
 X=0
 Y=0R
-W=(#SidebarWidth#-100)
-H=60
+W=(#SidebarWidth#)
+H=90
 SolidColor=0,0,0,1
 DynamicVariables=1
 AntiAlias=1
