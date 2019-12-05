@@ -91,6 +91,17 @@ AntiAlias=1
 ToolTipText=%2#CRLF#Total Hours played: %3
 ToolTipType=1
 
+[FriendBox]
+X=0R
+Y=0
+W=(#SidebarWidth#/5-4)
+H=60
+Padding=2,2,2,2
+SolidColor=0,230,0,100
+DynamicVariables=1
+AntiAlias=1
+ToolTipText=%3#CRLF#Playing: %4
+ToolTipType=1
 
 
 
